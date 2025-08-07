@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://hq.birds414.com",
+      "permanent": true
+    }
+  ]
+}
